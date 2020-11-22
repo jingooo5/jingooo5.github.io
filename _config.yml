@@ -1,7 +1,7 @@
 # Site
 title:              My Github page
 bio:                '2020 skku OSS'
-description:        "2020 skku OSS test"
+description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
